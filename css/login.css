@@ -1,0 +1,28 @@
+    .user_button{border:0;
+    font-size: large;
+    width: 200px;
+    height: 30px;
+    background-color:#98C3EE;
+    color:#fff;
+    border-radius:5px;
+    cursor:pointer;}
+
+    .user_button:hover{
+      color:#98C3EE;
+      background-color:#fff;
+      border:1px #98C3EE;
+    }
+
+    .all{
+      margin: 20px auto;
+      display:flex;
+      justify-content: center;
+      align-items:center;
+    }
+
+    .text{
+      outline:none;
+      font-size: large; 
+      border-style:solid; 
+      border-color: white white #98C3EE white;
+    }
